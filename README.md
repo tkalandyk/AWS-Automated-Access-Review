@@ -1,3 +1,6 @@
+
+<img width="1280" height="720" alt="Yellow and Black Modern R BSoul Playlist YouTube Thumbnail" src="https://github.com/user-attachments/assets/a407da72-1ec5-4369-842a-3f5506e2058b" />
+
 # AWS Automated Access Review
 
 ## Continuous Security Evidence & Access Risk Intelligence for Enterprise AWS Environments
@@ -8,6 +11,10 @@ They fail because evidence is manual, fragmented, and delayed.
 This project demonstrates how AWS-native automation can transform access reviews from a periodic audit exercise into continuous security intelligence.
 
 ---
+## 🎥 Click the Picture Below to Watch the Demo ⬇️
+[![Watch the Demo](https://github.com/user-attachments/assets/aae8ab2a-f906-4935-bf4b-20308e3a0ff8)](https://youtu.be/AsQcsFl7Bu0)
+
+
 
 ## The Enterprise Problem
 
