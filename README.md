@@ -69,6 +69,9 @@ This architecture prioritizes audit traceability, low operational overhead, and 
 
 The system runs automatically on a defined schedule or on-demand using cloud-native event-driven architecture.
 
+<img width="1596" height="478" alt="image" src="https://github.com/user-attachments/assets/e3dc1b38-013b-439b-8ad1-556b53927bdc" />
+
+
 ---
 
 ### Security Data Collection
@@ -83,11 +86,16 @@ Security findings are aggregated across multiple AWS security domains including:
 
 All findings are normalized into a unified security dataset.
 
+<img width="1848" height="746" alt="image" src="https://github.com/user-attachments/assets/4cb2705a-4052-407e-8ac8-e53b33ecb024" />
+
+
 ---
 
 ### Evidence Generation
 
 The system automatically generates structured audit evidence files with timestamped records for traceability and audit review.
+
+<img width="1616" height="695" alt="image" src="https://github.com/user-attachments/assets/e0689d51-1862-4e6f-9d46-cd429d6bc902" />
 
 ---
 
@@ -98,6 +106,9 @@ Evidence is stored in secure cloud storage for:
 • Long-term audit retention  
 • Historical evidence tracking  
 • Auditor-accessible reporting history  
+
+<img width="1595" height="393" alt="image" src="https://github.com/user-attachments/assets/4724e812-05a4-4799-818a-b002a1ea8828" />
+
 
 ---
 
@@ -121,6 +132,9 @@ Leadership receives:
 • Full audit evidence report  
 
 Delivered automatically through secure notification workflows.
+
+<img width="1219" height="564" alt="image" src="https://github.com/user-attachments/assets/688facd4-210b-4c21-b3ef-5dd568701334" />
+
 
 ---
 
