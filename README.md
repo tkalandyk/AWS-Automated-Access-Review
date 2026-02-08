@@ -59,8 +59,11 @@ In typical enterprise environments, automation like this enables:
 ## Architecture Design Narrative
 
 This system is designed using an event-driven, serverless architecture pattern to enable continuous, low-overhead security evidence generation without introducing operational infrastructure burden. A scheduled cloud event triggers stateless compute that dynamically collects identity, configuration, exposure, and activity telemetry across the environment, normalizes findings into a unified dataset, and produces audit-ready evidence artifacts. Evidence is stored using immutable, timestamped object storage to support long-term audit traceability and historical comparison. An AI translation layer converts technical findings into prioritized business risk summaries to ensure outputs are actionable beyond security teams. The architecture is intentionally modular and service-agnostic, allowing expansion into additional control domains, multi-account aggregation, or integration into enterprise GRC and ticketing workflows without redesigning the core pipeline.
-
 ## Architecture Overview
+
+This architecture prioritizes audit traceability, low operational overhead, and extensibility across enterprise control domains. The design intentionally separates data collection, evidence generation, and executive reporting layers to allow organizations to scale security visibility without increasing manual reporting burden. By leveraging serverless compute and event-driven execution, the system minimizes infrastructure management while supporting predictable, repeatable evidence generation. The design also ensures outputs are consumable by both technical and business stakeholders, reinforcing security as a continuous business risk intelligence function rather than a periodic compliance activity.
+
+
 
 ### Event Driven Execution
 
